@@ -1,0 +1,25 @@
+{
+  "name": "challenge-9",
+  "version": "1.0.0",
+  "description": "Challenge 9",
+  "main": "index.js",
+  "scripts": {
+    "test": "Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/breashroyer/Challenge-9.git"
+  },
+  "keywords": [
+    "none"
+  ],
+  "author": "Breanna DeNino",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/breashroyer/Challenge-9/issues"
+  },
+  "homepage": "https://github.com/breashroyer/Challenge-9#readme",
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  }
+}
